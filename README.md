@@ -42,4 +42,7 @@ pip install -r requirements.txt
 echo "GROQ_API_KEY=your_api_key_here" > .env
 
 # 4️⃣ Run Jarvis
-python main.py
+Model_v2.py
+
+#   OR
+Follow instruction provied in commands.txt file
