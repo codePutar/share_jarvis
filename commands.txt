@@ -3,3 +3,7 @@ how to install requirments to make Ai run properly
 1)-->  pip install -r requirements.txt 
 
  this commad will install all the required depedencies run the program properly
+
+ 2)--> add your own groq API KEYS and Cohere api keys to use there llm model while using this program and in user name shection enter your name 
+
+ 3)--> run the Module name Model_v2.py as it is the main starting point and the main model to run
