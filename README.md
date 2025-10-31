@@ -1,80 +1,45 @@
-# <p align="center">🤖 Jarvis — Personal AI Assistant</p>
+<h1 align="center">🧠 JARVIS AI ASSISTANT 🤖</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-beta-orange.svg" alt="status" />
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="python" />
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="license" />
-  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="build" />
-  <img src="https://img.shields.io/badge/author-Ashutosh%20Barthwal-blueviolet.svg" alt="author" />
+  <img src="https://i.imgur.com/Bq3m0CY.gif" width="600px" alt="Jarvis AI Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/000/0000000/hero-banner-placeholder.png" alt="Jarvis banner" width="900" />
+  <b>Your personal AI assistant — built with Python, Groq API, and pure imagination ⚡</b>
 </p>
 
 ---
 
-## 🔭 Project Overview
+## 🚀 Overview
 
-**Jarvis** is a desktop AI assistant that accepts voice and text commands to automate tasks, fetch information, run programs, and respond conversationally using LLMs.  
-Designed for personal productivity, quick automation, and learning — lightweight and configurable.
-
----
-
-## ✨ Highlights
-
-- 🎤 **Voice + Text** interaction
-- 🧠 **LLM-powered responses** (OpenAI, Groq, or other providers)
-- ⚙️ **Command execution**: launch apps, run scripts, open URLs
-- 🗂️ **Configurable memory/context** for richer conversations
-- 🔒 **Secure**: secrets stored in `.env` (and never pushed)
+**Jarvis** (Just A Rather Very Intelligent System) is a modular Python-based AI assistant that listens, understands, and responds — just like Tony Stark’s JARVIS.  
+It can talk, perform commands, open apps, answer questions, and even connect to AI models via API integration.
 
 ---
 
-## 📸 Demo
+## 🧩 Features
 
-> Replace the placeholders below with your actual GIFs/screenshots inside the repo (`assets/demo.gif`, `assets/screenshot1.png`).
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Jarvis demo" width="720" />
-</p>
-
----
-
-## 🧭 Table of Contents
-
-- [Quick Start](#rocket-quick-start)
-- [Installation](#wrench-installation)
-- [Configuration](#gear-configuration)
-- [Usage](#play-button-usage)
-- [Commands & Examples](#keyboard-commands--examples)
-- [Architecture & Files](#file-cabinet-architecture--files)
-- [Development Tips](#construction-worker-development-tips)
-- [Contributing](#handshake-contributing)
-- [License](#scroll-license)
+✅ Natural voice conversations  
+✅ LLM-based responses using **Groq API**  
+✅ Text-to-speech and voice recognition  
+✅ Can open apps, play music, browse, and more  
+✅ Secure API key handling with `.env`  
+✅ Modular design — easily expandable  
 
 ---
 
-## 🚀 Quick Start
+## ⚙️ Installation
 
 ```bash
-# clone
+# 1️⃣ Clone the repository
 git clone https://github.com/codePutar/share_jarvis.git
 cd share_jarvis
 
-# create venv (recommended)
-python -m venv venv
-# windows
-venv\Scripts\activate
-# mac/linux
-source venv/bin/activate
-
-# install deps
+# 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-# create .env from example
-cp .env.example .env
-# edit .env to add your API keys (do NOT commit .env)
+# 3️⃣ Add your API key
+echo "GROQ_API_KEY=your_api_key_here" > .env
 
-# run
+# 4️⃣ Run Jarvis
 python main.py
