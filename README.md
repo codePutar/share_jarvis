@@ -1,7 +1,7 @@
 <h1 align="center">🧠 JARVIS AI ASSISTANT 🤖</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Bq3m0CY.gif" width="600px" alt="Jarvis AI Banner"/>
+  <img src="[https://i.imgur.com/Bq3m0CY.gif](https://iapm.ie/event/artificial-intelligence-workshop/banner-size-ai-and-machine-learning/)" width="600px" alt="Jarvis AI Banner"/>
 </p>
 
 <p align="center">
