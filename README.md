@@ -1,7 +1,7 @@
 <h1 align="center">🧠 JARVIS AI ASSISTANT 🤖</h1>
 
 <p align="center">
-  <img src="https://iapm.ie/wp-content/uploads/2019/07/BANNER-SIZE-AI-and-Machine-Learning-e1562764755877.jpg" width="600px" alt="Jarvis AI Banner"/>
+  <img src="https://data-rooms.org/wp-content/uploads/2024/08/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_datarooms.jpg" width="600px" alt="Jarvis AI Banner"/>
 </p>
 
 <p align="center">
